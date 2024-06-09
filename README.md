@@ -1,8 +1,7 @@
 # Breast-cancer-detection-with-SVM
-## This repository contains the implementation of a Breast Cancer Detection system using Support Vector Machine (SVM). The project utilizes the Breast Cancer Wisconsin (Diagnostic) dataset to train and evaluate the SVM model.
+This repository contains the implementation of a Breast Cancer Detection system using Support Vector Machine (SVM). The project utilizes the Breast Cancer Wisconsin (Diagnostic) dataset to train and evaluate the SVM model.
 
-## Table of Contents
-Introduction
+Introduction 
 Dataset
 Installation
 Usage
